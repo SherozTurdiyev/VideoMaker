@@ -1,0 +1,18 @@
+[
+    {
+        "txt":"Asosiy",
+        "img":"./images/icons/Asosiy.png"
+    } ,
+    {
+        "txt":"Haqida",
+        "img":"./images/icons/clips.png"
+    },
+    {
+        "txt":"Lentalar",
+        "img":"./images/icons/stori.png"
+    },
+    {
+        "txt":"Videolar",
+        "img":"./images/icons/videos.png"
+    }
+]
