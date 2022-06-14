@@ -27,7 +27,7 @@ nav input{
 .opacity{
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.403);
+    /* background-color: rgba(0, 0, 0, 0.403); */
 }
 .box{
     width: 60%;
@@ -35,4 +35,49 @@ nav input{
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+
+
+.scroll{
+    overflow-y: auto;
+
+    height: 800px;
+}
+.scroll_x{
+    display: flex;
+    /* overflow:scroll; */
+    overflow-x: scroll;
+}
+.live_show{
+    text-align: center;
+    display: flex;
+    width: 20% ;
+    height: 20%;
+  
+}
+
+.footer{
+    width: 100%;
+    height: 200px;
+}
+
+
+.a_footer{
+    text-decoration: none;
+    margin: 20px;
+
+    border-right: 2px solid white;
+}
+
+.footer_center{
+     display: flex;
+    
+}
+
+.center{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
 }
